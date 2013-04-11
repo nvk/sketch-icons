@@ -5,4 +5,8 @@ To **collaborate**, please [fork](https://github.com/sketch-templates/sketch-ico
 # Icon Templates #
 
 ## [by Neil Hainsworth](https://github.com/neilorangepeel)
-![Social Icons](https://raw.github.com/sketch-templates/sketch-icons/master/Free-Social-Icons/social-icons.sketch/QuickLook/Thumbnail.png)
+![Social Icons](https://raw.github.com/nvk/sketch-icons/master/Free-Social-Icons/social-icons.sketch/QuickLook/Thumbnail.png)
+
+
+## [by @nvk](http://github.com/nvk)
+![Sketch Group Icon](https://raw.github.com/nvk/sketch-icons/master/sketch-group-icon.sketch/QuickLook/Thumbnail.png)
