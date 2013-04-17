@@ -1,6 +1,7 @@
 To **collaborate**, please [fork](https://github.com/sketch-templates/sketch-icons/fork_select) and make a [pull request](https://github.com/sketch-templates/sketch-icons/pull/new/master).
 
 **PS: Also check out** [Sketch iOS](https://github.com/nvk/sketch-ios), [Sketch Web](https://github.com/nvk/sketch-web) and [Sketch Browser UI](https://github.com/nvk/sketch-browsers-ui) Tempaltes
+
 ---
 
 # Icon Templates #
